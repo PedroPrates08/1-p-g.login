@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-color: #22c55e;
+}
+
+.all{
+    background-color: #111827;
+    width: 400px;
+    height: 300px;
+    color: #fff;
+    border-radius: 50px;
+}
+
+.all h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#N{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.nome{
+    width: 180px;
+    height: 25px;
+    margin-left: 90px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#E{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.email{
+    width: 180px;
+    height: 25px;
+    margin-left: 110px;
+}
+
+.enviar{
+    height: 20px;
+    width: 193px;
+    margin-left: 109px;
+    padding: 15px;
+    background-color: rgb(66, 120, 221);  
+    color: #fff;
+    border: 10%;
+    border-radius: 5px;
+}
